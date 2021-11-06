@@ -1,0 +1,73 @@
+td, th{
+border: 2px solid black;
+}
+
+.black{
+    background-color: black;
+    color:rgb(255, 255, 255)  ;
+}
+.orange{
+    background-color: orange;
+    color: white;
+}
+.green{
+    background-color: green;
+    color: white;
+}
+.blue{ 
+background-color: blue;
+color: white;
+}
+.yellow{
+    background-color: yellow;
+    color: white;
+}
+.red{
+    background-color: red;
+    color: white;
+}
+.purple{
+    background-color: purple;
+    color: white;
+}
+img{
+width: 150px;
+height: 150px;
+}
+.qwe{
+background-color: rgb(0, 140, 255);
+color: white;
+
+}
+.div{
+border: 2px solid black;
+width: 500px; 
+height: 300px;
+margin: 10px;
+padding: 10px;
+background-color: wheat;
+border-radius: 5px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
